@@ -1,2 +1,3 @@
 #MyStuff
-Det här är mina testgrejjer
+Det hÃ¤r Ã¤r mina testgrejjer
+Detta Ã¤r rad tre
